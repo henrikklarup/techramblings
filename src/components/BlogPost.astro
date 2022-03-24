@@ -83,4 +83,10 @@ const { title, author, publishDate, heroImage, alt } = Astro.props;
 		font-size: 2.25rem;
 		font-weight: 700;
 	}
+
+	:global(pre[class*="language-"]) {
+		background: black;
+		border: 1px solid white;
+		width: 100%;
+	}
 </style>

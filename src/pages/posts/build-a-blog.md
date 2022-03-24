@@ -42,7 +42,7 @@ So I settled on using astro to figure out what it can do, and how easy it is to 
 ### Create a blog template.
 It was really easy to get started on using astro, as it comes with a lot of different templates one can use.
 
-The only thing you need to do is to use the `create-astro` command, and it will guide you through it. Go [here](https://docs.astro.build/en/installation/) to see the details.
+The only thing you need to do is to use the `create-astro` command, and it will guide you through it. Go to the [astro installtion page](https://docs.astro.build/en/installation/) to see the details.
 
 
 ```bash
@@ -59,14 +59,14 @@ Again as I wanted to move quickly I wanted a reliable solution which was easy to
 I decided on using [Cloudflare pages](https://pages.cloudflare.com/).
 Not only do they officially support astro, they also handle all the complexities of deploying your application, putting SSL/TLS on top, and website analytics. And the best thing is, it's all free!
 
-I'll not go into details about it, but follow their guide [here](https://developers.cloudflare.com/pages/framework-guides/astro/).
+I'll not go into details about it, but follow [cloudflares own guide](https://developers.cloudflare.com/pages/framework-guides/astro/).
 Note: you need to put you code into GitHub or GitLab, either one works, and it's easy to connect, and both are free. Your repository can either be public or private.
 
 Once you've set everything up, which literally takes 5 minuts, then you will be presented with your deployed blog. mine was [techramblings.pages.dev](https://techramblings.pages.dev/).
 
 ## Custom domain.
 If you use cloudflare as your DNS provider, it's easy to attach your new cloudflare pages blog. In the project you've just created you will see a tab named `custom domains` where you just setup your domain, easy!
-If you are not already using cloudflare as your DNS provider, then you can follow the guide [here](https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/) to switch.
+If you are not already using cloudflare as your DNS provider, then you can follow [their guide](https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/) to switch.
 
 # Rounding up
 That's it. You now have a fully working blog, which automatically deploys when you push to your production branch in git, it's protected, and hosted right at the edge, so no matter where you are located around the world the performance is going to be great. In addition most of the content is generated as HTML, so the size is super minimal, and load speeds are good.
