@@ -284,5 +284,6 @@ blockquote .source {
 }
 
 .commento-root textarea {
-	background-color: var(--theme-code-inline-bg);
+	background-color: var(--theme-code-inline-bg) !important;
+	color: var(--theme-code-text) !important;
 }
