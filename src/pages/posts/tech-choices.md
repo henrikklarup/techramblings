@@ -7,17 +7,17 @@ hidden: true
 description: What are tech choice, why are they important, how to keep up with the trends, and what is a good way of creating transparency of the choices we take?
 ---
 # Whats a tech choice?
-As engineers we often make choices or decisions about things like 'Which framework to use?', 'What datastore is best for this use case?' and 'What architectural pattern should I apply here?'.
+As engineers we often make choices or take decisions about things like 'Which framework to use?', 'What datastore is best for this use case?' and 'What architectural pattern should I apply here?'.
 These are all examples of tech choices, and for me tech choices is everything which supports our tech journey.
 
 # Why are tech choices important?
 As I mentioned before engineers takes a lot of decisions about following one or the other path on the journey. There might be multiple paths which will lead to the same place, some might have pitfalls, and others might accelerate you in the wrong direction.
 
-To limit the scope of the post I will focus on the choices which I see taking a little larger scope than the ad-hoc choices we all take on a day-to-day basis.
-
-It's important to take choices, as the act of not taking a choice also has a cost attached to it. I've found that choices in some cases can become 
+It's important to make decisions, as the act of not taking a choice also has a cost attached to it. If we stop making choices or taking decisions we risk slowing down or getting stuck, while others overtakes us. Always keep moving forward. In my view it's better to make a decision to do something, and then undo it later, rather than post-poning the decision and risk never noticing that we should have taken it ealier.
 
 # Who should take the choice?
+As I've transitioned into a new role, I find myself making decisions about differnet choices than I would before. A lot of the decisions I dealt with as a developer was mostly about very technical choices, such as 'which pattern to apply' or 'which framework or tools fits this problem.
+I've found that choices in some cases can become harder to take some of these choices the further one moves away from hands-on-work, 
 
 
 # Tech trends
