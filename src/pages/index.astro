@@ -74,7 +74,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate).valueOf() - new Date(
 					<p>{description}</p>
 				</section>
 				<section aria-label="Blog post list">
-					{allPosts.map((p) => !p.draft && <BlogPostPreview post={p} />)}
+					{allPosts.map((p) => !p.hidden && <BlogPostPreview post={p} />)}
 				</section>
 			</main>
 		</div>
