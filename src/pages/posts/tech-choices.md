@@ -2,7 +2,7 @@
 setup: |
   import Layout from '../../layouts/BlogPost.astro'
 title: Tech choices
-publishDate: 7 Apr 2022
+publishDate: 21 Apr 2022
 description: What are tech choices, why are they important, how to keep up with the trends, and what is a good way of creating transparency in the choices you make?
 ---
 # What's a tech choice?
