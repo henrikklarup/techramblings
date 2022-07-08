@@ -38,10 +38,11 @@ It allows the team to set the bar higher than the company-wide principles, or re
 Team engineering priciples can also help the team understand communication patterns between different team functions (Dev, UX, QE) or how workflows should be within the context of the specific team.
 
 Some examples of team engineering principles could be:
-We share successes and mistakes as a team.
-We make decisions together, but trust individuals.
-Automate processes.
-Document decisions.
+- We share successes and mistakes as a team.
+- We make decisions together, but trust individuals.
+- Automate processes.
+- Document decisions.
+
 Again the same rules for creating great principles apply, and they will have to be re-evaluated whenever the team changes (a person joins, or a person leaves), and continuously.
 
 # How do you get started?
